@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.prime-container {
+  background-color: #000000;
+  padding-bottom: 32px;
+  min-height: 100vh;
+}
+.prime {
+  height: 350px;
+  width: 100%;
+}
+.video-container {
+  width: 90%;
+  margin: auto;
+  margin-bottom: 32px;
+}
+.movie-heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 600;
+  color: #ffffff;
+  margin-top: 32px;
+  margin-bottom: 25px;
+}
